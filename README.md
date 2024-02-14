@@ -48,4 +48,6 @@
   
   Paper : https://doi.org/10.1007/3-540-44598-6_4
 
-- 
+- Amiri, W. A., Baza, M., Banawan, K., Mahmoud, M., Alasmary, W., & Akkaya, K. (2021). Privacy-Preserving Smart Parking System Using Blockchain and Private Information Retrieval.
+
+  Paper : https://arxiv.org/pdf/1904.09703.pdf
