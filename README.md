@@ -1,25 +1,51 @@
 # PIR
 
-- Committed Private Information Retrieval : https://arxiv.org/pdf/2302.01733.pdf
+- Cao, Q., Tran, H. Y., Dau, S. H., Yi, X., Viterbo, E., Feng, C., Huang, Y.-C., Zhu, J., Kruglik, S., & Kiah, H. M. (2023). Committed Private Information Retrieval.
+
+  Paper : https://arxiv.org/pdf/2302.01733.pdf
 
   github : https://github.com/PIR-PIXR/CPIR
   
-- Authenticated private information retrieval : https://www.usenix.org/system/files/sec23fall-prepub-78-colombo.pdf
+- Colombo, S., Nikitin, K., Corrigan-Gibbs, H., Wu, D. J., & Ford, B. (2023). Authenticated private information retrieval. Cryptology ePrint Archive, Paper 2023/297.
+
+  Paper : https://www.usenix.org/system/files/sec23fall-prepub-78-colombo.pdf
   
   github : https://github.com/dedis/apir-code
   
-- Applying Private Information Retrieval to Lightweight Bitcoin Clients : https://arxiv.org/pdf/2008.11358.pdf
-  
-- Private Information Retrieval with Access Control : https://dspace.mit.edu/bitstream/handle/1721.1/151392/goyal-pawan14-meng-eecs-2023-thesis.pdf?sequence=1&isAllowed=y
+- K. Qin, H. Hadass, A. Gervais and J. Reardon, "Applying Private Information Retrieval to Lightweight Bitcoin Clients," 2019 Crypto Valley Conference on Blockchain Technology       (CVCBT), Rotkreuz, Switzerland, 2019, pp. 60-72.
 
-  github : https://github.com/pawangoyal137/PIRAC
+  Paper : https://arxiv.org/pdf/2008.11358.pdf
   
-- Password Based Anonymous Authentication with Private Information Retrieval : https://www.dline.info/fpaper/jdim/v9i2/4.pdf
+- Vithana, S., Wang, Z., & Ulukus, S. (2023). Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions.
+
+  Paper : https://arxiv.org/pdf/2304.14397.pdf
+    
+- Bringer, Julien & Chabanne, Herve & Pointcheval, David & Tang, Qiang. (2007). Extended Private Information Retrieval and Its Application in Biometrics Authentications. 175-193.
+
+  Paper : https://www.di.ens.fr/david.pointcheval/Documents/Papers/2007_cans.pdf
   
-- Extended Private Information Retrieval and its Application in Biometrics Authentications : https://www.di.ens.fr/david.pointcheval/Documents/Papers/2007_cans.pdf
+- Benny Chor, Eyal Kushilevitz, Oded Goldreich, and Madhu Sudan. 1998. Private information retrieval. J. ACM 45, 6 (Nov. 1998), 965–981.
+
+  Paper : https://doi.org/10.1145/293347.293350
   
-- Private Information Retrieval : https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf
-  
-- One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval : https://eprint.iacr.org/2022/949.pdf
+- Alexandra Henzinger, Matthew M. Hong, Henry Corrigan-Gibbs, Sarah Meiklejohn, and Vinod Vaikuntanathan. 2023. One server for the price of two: simple and fast single-server        private information retrieval. In Proceedings of the 32nd USENIX Conference on Security Symposium (SEC '23). USENIX Association, USA, Article 218, 3889–3905.
+
+  Paper : https://eprint.iacr.org/2022/949.pdf
 
   github :  https://github.com/ahenzinger/simplepir
+
+- Aguilar-Melchor, Carlos & Barrier, Joris & Fousse, Laurent & Killijian, Marc-Olivier. (2015). XPIR : Private Information Retrieval for Everyone. Proceedings on Privacy Enhancing   Technologies. 2016.
+
+  Paper : https://hal.science/hal-01396142
+
+  github : https://github.com/XPIR-team/XPIR
+
+- Angel, Sebastian & Chen, Hao & Laine, Kim & Setty, Srinath. (2018). PIR with Compressed Queries and Amortized Query Processing.
+  
+  Paper : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418648
+
+- Beimel, A., Ishai, Y., Malkin, T. (2000). Reducing the Servers Computation in Private Information Retrieval: PIR with Preprocessing. In: Bellare, M. (eds) Advances in Cryptology   CRYPTO 2000. Lecture Notes in Computer Science, vol 1880. Springer, Berlin, Heidelberg.
+  
+  Paper : https://doi.org/10.1007/3-540-44598-6_4
+
+- 
