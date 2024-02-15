@@ -55,3 +55,7 @@
 - Goldberg, I., & Cheriton, D.R. (2007). Improving the Robustness of Private Information Retrieval.
 
   Paper : https://www.freehaven.net/anonbib/cache/goldberg-2007.pdf
+
+- Sun, H., & Jafar, S. A. (2017). The Capacity of Private Information Retrieval.
+
+  Paper : https://arxiv.org/pdf/1602.09134.pdf
