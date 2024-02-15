@@ -59,3 +59,7 @@
 - Sun, H., & Jafar, S. A. (2017). The Capacity of Private Information Retrieval.
 
   Paper : https://arxiv.org/pdf/1602.09134.pdf
+
+- Banawan, K., & Ulukus, S. (2017). Multi-Message Private Information Retrieval: Capacity Results and Near-Optimal Schemes.
+
+  Paper : https://arxiv.org/pdf/1702.01739.pdf
