@@ -71,3 +71,7 @@
 - Wang, Z., & Ulukus, S. (2022). Symmetric Private Information Retrieval at the Private Information Retrieval Rate. IEEE Journal on Selected Areas in Information Theory, 3, 350–     361.
 
   Paper : https://user.eng.umd.edu/~ulukus/papers/journal/SPIR-at-PIR-rate.pdf
+
+- Sion, Radu and Bogdan Carbunar. “On the Computational Practicality of Private Information Retrieval.” (2006).
+
+  Paper : https://www.ndss-symposium.org/wp-content/uploads/2017/09/On-the-Practicality-of-Private-Information-Retrieval-Radu-Sion.pdf
