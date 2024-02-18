@@ -63,3 +63,11 @@
 - Banawan, K., & Ulukus, S. (2017). Multi-Message Private Information Retrieval: Capacity Results and Near-Optimal Schemes.
 
   Paper : https://arxiv.org/pdf/1702.01739.pdf
+
+- Samy, I., Attia, M. A., Tandon, R., & Lazos, L. (2020). Asymmetric Leaky Private Information Retrieval.
+
+  Paper : https://arxiv.org/pdf/2006.03048.pdf
+
+- Wang, Z., & Ulukus, S. (2022). Symmetric Private Information Retrieval at the Private Information Retrieval Rate. IEEE Journal on Selected Areas in Information Theory, 3, 350–     361.
+
+  Paper : https://user.eng.umd.edu/~ulukus/papers/journal/SPIR-at-PIR-rate.pdf
